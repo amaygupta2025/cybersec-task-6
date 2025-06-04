@@ -30,3 +30,6 @@ Understand what makes a password strong and test it using online tools.
 - passwordmonster.com
 - password.kaspersky.com
 - security.org/how-secure-is-my-password
+
+## Learned
+I found that the strength of a password increases with longer length, use of mixed character types, and randomness. Simple or common patterns are easily cracked.       Passphrases provide a good balance of strength and memorability.
